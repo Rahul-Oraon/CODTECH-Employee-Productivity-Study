@@ -6,7 +6,13 @@
 ## Projective Objective
 This project analyses employee performance, productivity and HR metrics using Excel. The goal is to help HR managers and business leaders make data-driven decisions by identifying trends in employee performance, satisfaction and productivity.
 ## Tools Used
--	Microsoft Excel - Data Cleaning, Pivot Tables, Pivot Charts.
--	GitHub – Project Documentation and Version Control.
+-	Microsoft Excel
+    - Data Cleaning
+    - Pivot Tables
+    - Pivot Charts
+-	GitHub
+  -Project Documentation
+ 	-Version Control   
 ## Dataset Used
 - <a href="https://www.kaggle.com/datasets/mexwell/employee-performance-and-productivity-data">Dataset<a/>
+
