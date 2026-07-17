@@ -2,7 +2,7 @@
 - INTERN ID: CITS5152
 - NAME: RAHUL ORAON
 - NO. OF WEEKS: 4 WEEKS
-- PROJECT NAME: SALES TREND VISUALISATION
+- PROJECT NAME: EMPLOYEE PRODUCTIVITY STUDY
 ## Project Objective
 This project analyses employee performance, productivity and HR metrics using Excel. The goal is to help HR managers and business leaders make data-driven decisions by identifying trends in employee performance, satisfaction and productivity.
 ## Tools Used
